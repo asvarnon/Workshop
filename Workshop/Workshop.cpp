@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	//std::cout << "Hello World!" << std::endl;
-	cout << "Welcome to the Workshop!" << endl;
+	//cout << "Welcome to the Workshop!" << endl;
     return 0;
 }
 
